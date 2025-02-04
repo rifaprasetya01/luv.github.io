@@ -101,7 +101,7 @@ const content2 = {
   header: "Dear My Luv Luv",
   teks1: "My beb tercinta. Selamat ulang tahun. Mulai hari ini, usia kamu sudah bertambah satu tahun.",
   teks2: "Kamu hebat bisa bertahan sampai sejauh ini, selama ini. Aku bangga banget punya pacar yang engga cuma cantik, tapi juga kuat dan tahan banting.",
-  teks3: "Love you beb. Jangan menyerah dan teruslah semangat. Walau mungkin dunia engga berpihak kepada kamu, tapi aku yakin kamu akan kuat jalanin semuanya. Karena kamu Intan, yang cantik dan sangat kuat.",
+  teks3: "Love you beb. Jangan menyerah dan teruslah semangat. Walau mungkin dunia engga berpihak kepada kamu, tapi aku yakin kamu akan kuat jalanin semuanya. Karena kamu Intan, yang cantik dan sangat kuat. Oh, and one more... I am, Rifa, very very love Intan so much. I swear. ",
   footer: "From Your Boyfriend"
 }
 
